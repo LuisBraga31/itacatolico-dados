@@ -1,0 +1,234 @@
+[
+    {
+      "id": 1,
+      "igreja": "Nossa Senhora da Soledade",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/zQRGrFxAcSotgq5n8",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "7h"},
+        {"id": 2, "dia": "Terça", "hora": "7h e 19h30"},
+        {"id": 3, "dia": "Quarta", "hora": "7h e 19h30"},
+        {"id": 4, "dia": "Quinta", "hora": "7h e 19h30"},
+        {"id": 5, "dia": "Sexta", "hora": "7h e 19h30"},
+        {"id": 6, "dia": "Sábado", "hora": "19h"},
+        {"id": 7, "dia": "Domingo", "hora": "7h30, 10h, 16h e 19h"},
+        {"id": 8, "dia": "1° Sexta", "hora": "7h, 10h30, 16h e 19h30"},
+        {"id": 9, "dia": "Todo dia 15", "hora": "16h"}
+      ]
+  },
+  {
+      "id": 2,
+      "igreja": "São José Operário",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/zo6XRUVNc7hjzzFJ8",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "19h"},
+        {"id": 2, "dia": "Terça", "hora": "19h"},
+        {"id": 3, "dia": "Quarta", "hora": "19h"},
+        {"id": 4, "dia": "Quinta", "hora": "19h"},
+        {"id": 5, "dia": "Sexta", "hora": "16h"},
+        {"id": 6, "dia": "Sábado", "hora": "16h e 19h"},
+        {"id": 7, "dia": "Domingo", "hora": "7h, 10h e 18h"}
+      ]
+  },
+  {
+      "id": 3,
+      "igreja": "Nossa Senhora da Agonia",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "19h30"},
+        {"id": 2, "dia": "Terça", "hora": "19h30"},
+        {"id": 3, "dia": "Quarta", "hora": "16h"},
+        {"id": 4, "dia": "Quinta", "hora": "16h"},
+        {"id": 5, "dia": "Sexta", "hora": "19h30"},
+        {"id": 6, "dia": "Sábado", "hora": "7h e 19h30"},
+        {"id": 7, "dia": "Domingo", "hora": "7h, 12h e 20h"}
+      ]
+  },
+  {
+      "id": 4,
+      "igreja": "Nossa Senhora das Graças",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "18h"},
+        {"id": 2, "dia": "Sábado", "hora": "18h"},
+        {"id": 3, "dia": "Domingo", "hora": "8h30 e 18h"},
+        {"id": 4, "dia": "1° Sexta", "hora": "18h"},
+        {"id": 5, "dia": "Todo dia 27", "hora": "18h"}
+      ]
+  },
+  {
+      "id": 5,
+      "igreja": "São Benedito",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/ccMsHtSY6x6D778Y6",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "19h"},
+        {"id": 2, "dia": "Terça", "hora": "15h"},
+        {"id": 3, "dia": "Quarta", "hora": "19h"},
+        {"id": 4, "dia": "Quinta", "hora": "15h"},
+        {"id": 5, "dia": "Sexta", "hora": "19h"},
+        {"id": 6, "dia": "Sábado", "hora": "15h"},
+        {"id": 7, "dia": "Domingo", "hora": "7h, 10h, 17h e 19h"}
+      ]
+  },
+  {
+      "id": 6,
+      "igreja": "IPN — Sagrado Coração ",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/v4qdn7264KGWKTe19",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "19h30"},
+        {"id": 2, "dia": "Terça", "hora": "19h30"},
+        {"id": 3, "dia": "Sexta", "hora": "19h30"},
+        {"id": 4, "dia": "Sábado", "hora": "19h"},
+        {"id": 5, "dia": "Domingo", "hora": "8h30"}
+      ]
+  },
+  {
+      "id": 7,
+      "igreja": "Vila Vicentina",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/PpPx5r534d2Yamc98",
+      "horarios": [
+        {"id": 1, "dia": "Sexta", "hora": "7h"},
+        {"id": 2, "dia": "Domingo", "hora": "9h e 17h30"}
+      ]
+  },
+  {
+      "id": 8,
+      "igreja": "Nossa Senhora da Piedade",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/hsTaQD9i4aBVFugn6",
+      "horarios": [
+        {"id": 1, "dia": "Quinta", "hora": "19h30"},
+        {"id": 2, "dia": "Domingo", "hora": "9h"}
+      ]
+  },
+  {
+      "id": 9,
+      "igreja": "Comunidade Sol de Deus",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/FtzZgKa1Bo4dQLdJ8",
+      "horarios": [
+        {"id": 1, "dia": "Sexta", "hora": "14h"}
+      ]
+  },
+  {
+      "id": 10,
+      "igreja": "Santo Antônio",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/32zS2FjQfbkticE97",
+      "horarios": [
+        {"id": 1, "dia": "Sexta", "hora": "19h30"},
+        {"id": 2, "dia": "Domingo", "hora": "10h e 19h"}
+      ]
+  },
+  {
+      "id": 11,
+      "igreja": "Perpétuo Socorro",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/bbVFN4LBHxTLwu7d6",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "19h30"},
+        {"id": 2, "dia": "Domingo", "hora": "7h e 19h"},
+        {"id": 3, "dia": "1° Sexta", "hora": "19h30"}
+      ]
+  },
+  {
+      "id": 12,
+      "igreja": "Santa Margarida Maria",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/FiEnUY9c3h7oKKZk9",
+      "horarios": [
+        {"id": 1, "dia": "Sábado", "hora": "19h"},
+        {"id": 2, "dia": "1° Sexta", "hora": "19h30"},
+        {"id": 3, "dia": "1° Domingo", "hora": "10h30"}
+      ]
+  },
+  {
+      "id": 13,
+      "igreja": "Santa Luzia",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/8R3DrBg9JDpKfBP3A",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "7h"},
+        {"id": 2, "dia": "Sábado", "hora": "19h"}
+      ]
+  },
+  {
+      "id": 14,
+      "igreja": "Convento",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/9begoJWNLYeuYPvn8",
+      "horarios": [
+        {"id": 1, "dia": "Terça", "hora": "16h30"},
+        {"id": 2, "dia": "Domingo", "hora": "10h30"}
+      ]
+  },
+  {
+      "id": 15,
+      "igreja": "Nossa Senhora de Fátima",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/tH6LfbuX5Wd1f5189",
+      "horarios": [
+        {"id": 1, "dia": "Sábado", "hora": "19h"}
+      ]
+  },
+  {
+      "id": 16,
+      "igreja": "Santa Teresinha",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/e89gXgc3eD6NSi7p8",
+      "horarios": [
+        {"id": 1, "dia": "Sábado", "hora": "19h"}
+      ]
+  },
+  {
+      "id": 17,
+      "igreja": "Nossa Senhora da Luz",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/sE2gTVkSRPaF7UcJ9",
+      "horarios": [
+        {"id": 1, "dia": "Sábado", "hora": "16h"}
+      ]
+  },
+  {
+      "id": 18,
+      "igreja": "Santa Rosa",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/tXLbsh9HSE11kgga9",
+      "horarios": [
+        {"id": 1, "dia": "Domingo", "hora": "8h30"}
+      ]
+  },
+  {
+      "id": 19,
+      "igreja": "São Judas Tadeu",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/9c3LtMNjukSPw2Ma7",
+      "horarios": [
+        {"id": 1, "dia": "Domingo", "hora": "19h"}
+      ]
+  },
+  {
+      "id": 20,
+      "igreja": "São Sebastião",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/cmk5v2donJiob3Xt5",
+      "horarios": [
+        {"id": 1, "dia": "Domingo", "hora": "8h30"}
+      ]
+  },
+  {
+      "id": 21,
+      "igreja": "Santa Rita de Cássia",
+      "image": "",
+      "linkMaps": "https://maps.app.goo.gl/F6T9pxacXnpgVDw66",
+      "horarios": [
+        {"id": 1, "dia": "Domingo", "hora": "19h"}
+      ]
+  }
+]

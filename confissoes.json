@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "igreja": "Nossa Senhora da Agonia",
+      "image": "",
+      "local": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
+      "horarios": [
+        {"id": 1, "dia": "Terça", "hora": "9h às 12h"}
+      ]
+    },
+    {
+      "id": 2,
+      "igreja": "Nossa Senhora das Graças",
+      "image": "",
+      "local": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "9h às 12h"}
+      ]
+    },
+    {
+      "id": 3,
+      "igreja": "São Benedito",
+      "image": "",
+      "local": "https://maps.app.goo.gl/We3ThgXa5abaqwcx9",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 2, "dia": "Quinta", "hora": "9h às 11h e 14h às 16h"}
+      ]
+    },
+    {
+      "id": 4,
+      "igreja": "São José Operário",
+      "image": "",
+      "local": "https://maps.app.goo.gl/do1U7xWmR7vckjG56",
+      "horarios": [
+        {"id": 1, "dia": "Terça", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 2, "dia": "Quarta", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 3, "dia": "Quinta", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 4, "dia": "Sexta", "hora": "9h às 11h e 14h às 16h"}
+      ]
+    },
+    {
+      "id": 5,
+      "igreja": "Nossa Senhora da Soledade",
+      "image": "",
+      "local": "https://maps.app.goo.gl/fJAoQmfonU6gPBoA8",
+      "horarios": [
+        {"id": 1, "dia": "Terça", "hora": "8h30 às 11h e 14h às 16h"},
+        {"id": 2, "dia": "Quarta", "hora": "8h30 às 11h e 14h às 16h"},
+        {"id": 3, "dia": "Quinta", "hora": "14h às 16h"},
+        {"id": 4, "dia": "Sexta", "hora": "9h às 11h e 14h30 às 16h"},
+        {"id": 5, "dia": "1° Sexta", "hora": "8h30 às 11h e 14h às 16h"}
+      ]
+    }
+]

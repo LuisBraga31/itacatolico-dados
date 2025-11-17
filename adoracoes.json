@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "igreja": "São Benedito",
+      "image": "",
+      "local": "https://maps.app.goo.gl/ccMsHtSY6x6D778Y6",
+      "horarios": [
+        {"id": 1, "dia": "Quinta", "hora": "19h30"}
+      ]
+    },
+    {
+      "id": 2,
+      "igreja": "Nossa Senhora das Graças",
+      "image": "",
+      "local": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
+      "horarios": [
+        {"id": 1, "dia": "Todo dia 27", "hora": "8h às 18h"}
+      ]
+    },
+    {
+      "id": 3,
+      "igreja": "IPN — Sagrado Coração",
+      "image": "",
+      "local": "https://maps.app.goo.gl/v4qdn7264KGWKTe19",
+      "horarios": [
+        {"id": 1, "dia": "1° Sexta", "hora": "19h"}
+      ]
+    },     
+    {
+      "id": 4,
+      "igreja": "Nossa Senhora da Agonia",
+      "image": "",
+      "local": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
+      "horarios": [
+      {"id": 1, "dia": "Segunda", "hora": "7h às 18h"},
+      {"id": 2, "dia": "Quarta", "hora": "7h às 18h"},
+      {"id": 3, "dia": "Sexta", "hora": "7h às 18h"}
+      ]
+    },    
+    {
+      "id": 5,
+      "igreja": "São José Operário",
+      "image": "",
+      "local": "https://maps.app.goo.gl/do1U7xWmR7vckjG56",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "8h às 16h"},
+        {"id": 2, "dia": "Terça", "hora": "8h às 16h"},
+        {"id": 3, "dia": "Quarta", "hora": "8h às 16h"},
+        {"id": 4, "dia": "Quinta", "hora": "8h às 16h"}
+      ]
+    },
+    {
+      "id": 6,
+      "igreja": "Comunidade Sol de Deus",
+      "image": "",
+      "local": "https://maps.app.goo.gl/FtzZgKa1Bo4dQLdJ8",
+      "horarios": [
+        {"id": 1, "dia": "Segunda", "hora": "8h às 22h"},
+        {"id": 2, "dia": "Terça", "hora": "8h às 22h"},
+        {"id": 3, "dia": "Quarta", "hora": "8h às 22h"},
+        {"id": 4, "dia": "Quinta", "hora": "8h às 21h"},
+        {"id": 5, "dia": "Sexta", "hora": "7h às 12h"},
+        {"id": 6, "dia": "Sábado", "hora": "8h às 18h"}
+      ]
+    }
+]
