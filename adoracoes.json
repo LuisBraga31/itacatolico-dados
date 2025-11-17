@@ -2,6 +2,7 @@
     {
       "id": 1,
       "igreja": "São Benedito",
+      "slug": "saobenedito",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saobenedito.png",
       "local": "https://maps.app.goo.gl/ccMsHtSY6x6D778Y6",
       "horarios": [
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "igreja": "Nossa Senhora das Graças",
+      "slug": "gracas",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/gracas.jpg",
       "local": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
       "horarios": [
@@ -20,6 +22,7 @@
     {
       "id": 3,
       "igreja": "IPN — Sagrado Coração",
+      "slug": "ipn",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/ipn.jpg",
       "local": "https://maps.app.goo.gl/v4qdn7264KGWKTe19",
       "horarios": [
@@ -29,6 +32,7 @@
     {
       "id": 4,
       "igreja": "Nossa Senhora da Agonia",
+      "slug": "agonia",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/agonia.jpg",
       "local": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
       "horarios": [
@@ -40,6 +44,7 @@
     {
       "id": 5,
       "igreja": "São José Operário",
+      "slug": "saojose",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saojose.jpg",
       "local": "https://maps.app.goo.gl/do1U7xWmR7vckjG56",
       "horarios": [
@@ -52,6 +57,7 @@
     {
       "id": 6,
       "igreja": "Comunidade Sol de Deus",
+      "slug": "soldeDeus",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/soldeDeus.jpg",
       "local": "https://maps.app.goo.gl/FtzZgKa1Bo4dQLdJ8",
       "horarios": [
