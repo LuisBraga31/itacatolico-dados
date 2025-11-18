@@ -96,7 +96,7 @@
     },
     {
       "id": 8,
-      "tipo": [{"nome": "paroquia"}, {"nome": "santuario"}],
+      "tipo": ["paroquia", "santuario"],
       "igreja": "Nossa Senhora da Piedade",
       "slug": "piedade",
       "whatsapp": true,
