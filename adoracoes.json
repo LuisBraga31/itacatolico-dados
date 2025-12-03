@@ -28,9 +28,19 @@
       "horarios": [
         {"id": 1, "dia": "1° Sexta", "hora": "19h"}
       ]
-    },     
+    },
     {
       "id": 4,
+      "igreja": "Nossa Senhora da Soledade",
+      "slug": "soledade",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/soledade.jpg",
+      "local": "https://maps.app.goo.gl/zQRGrFxAcSotgq5n8",
+      "horarios": [
+        {"id": 1, "dia": "1° Quinta", "hora": "9h às 17h"}
+      ]
+    },      
+    {
+      "id": 5,
       "igreja": "Nossa Senhora da Agonia",
       "slug": "agonia",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/agonia.jpg",
@@ -42,7 +52,7 @@
       ]
     },    
     {
-      "id": 5,
+      "id": 6,
       "igreja": "São José Operário",
       "slug": "saojose",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saojose.jpg",
@@ -55,7 +65,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "igreja": "Comunidade Sol de Deus",
       "slug": "soldeDeus",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/soldeDeus.jpg",
