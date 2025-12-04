@@ -15,15 +15,21 @@
       "dia": "25 de Dezembro",
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "10h"},
-        {"id": 2, "igreja": "Santo Antônio", "hora": "19h"},
-        {"id": 3, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"}
+        {"id": 2, "igreja": "São Benedito", "hora": "15h"},
+        {"id": 3, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 4, "igreja": "Santo Antônio", "hora": "19h"},
+        {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"}
       ]
     },  
     {
       "id": 3,
       "dia": "31 de Dezembro",
       "horarios": [
-        {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "20h"}
+        {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "20h"},
+        {"id": 2, "igreja": "São Sebastião", "hora": "20h"},
+        {"id": 3, "igreja": "Santa Rita", "hora": "20h"},
+        {"id": 4, "igreja": "Santa Rosa", "hora": "21h"},
+        {"id": 5, "igreja": "São Benedito", "hora": "21h"}
       ]
     },  
     {
@@ -31,7 +37,9 @@
       "dia": "01 de Janeiro",
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "10h"},
-        {"id": 2, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"}
+        {"id": 2, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 3, "igreja": "Santa Teresinha", "hora": "19h"},
+        {"id": 4, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"}
       ]
     }
 ]
