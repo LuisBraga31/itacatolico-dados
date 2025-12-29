@@ -6,13 +6,13 @@
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "São José Operário", "hora": "18h"},
         {"id": 3, "igreja": "Perpétuo Socorro", "hora": "18h"},
-        {"id": 4, "igreja": "Nossa Senhora da Soledade", "hora": "20h"},
-        {"id": 5, "igreja": "São José Operário", "hora": "20h"},
-        {"id": 6, "igreja": "São Sebastião", "hora": "20h"},
-        {"id": 7, "igreja": "Santa Rita", "hora": "20h"},
-        {"id": 8, "igreja": "Vila Vicentina", "hora": "20h"},
-        {"id": 9, "igreja": "Santa Rosa", "hora": "21h"},
-        {"id": 10, "igreja": "São Benedito", "hora": "21h"}
+        {"id": 4, "igreja": "IPN - Sagrado Coração", "hora": "19h30"},
+        {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "20h"},
+        {"id": 6, "igreja": "São José Operário", "hora": "20h"},
+        {"id": 7, "igreja": "São Sebastião", "hora": "20h"},
+        {"id": 8, "igreja": "Santa Rita", "hora": "20h"},
+        {"id": 9, "igreja": "Vila Vicentina", "hora": "20h"},
+        {"id": 10, "igreja": "São Benedito", "hora": "20h"}
       ]
     },  
     {
@@ -21,11 +21,13 @@
       "horarios": [
         {"id": 1, "igreja": "Perpétuo Socorro", "hora": "9h"},
         {"id": 2, "igreja": "Nossa Senhora da Soledade", "hora": "10h"},
-        {"id": 3, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
-        {"id": 4, "igreja": "São Benedito", "hora": "19h"},
-        {"id": 5, "igreja": "Santa Teresinha", "hora": "19h"},
-        {"id": 6, "igreja": "Vila Vicentina", "hora": "19h30"},
-        {"id": 7, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"}
+        {"id": 3, "igreja": "São Benedito", "hora": "15h"},
+        {"id": 4, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
+        {"id": 5, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 6, "igreja": "Santa Teresinha", "hora": "19h"},
+        {"id": 7, "igreja": "Vila Vicentina", "hora": "19h30"},
+        {"id": 8, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
+        {"id": 9, "igreja": "IPN - Sagrado Coração", "hora": "19h30"}
       ]
     }
 ]
