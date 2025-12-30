@@ -32,14 +32,15 @@
         {"id": 7, "igreja": "Convento", "hora": "10h30"},
         {"id": 8, "igreja": "Nossa Senhora da Agonia", "hora": "12h"},
         {"id": 9, "igreja": "São Benedito", "hora": "15h"},
-        {"id": 10, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
-        {"id": 11, "igreja": "São Benedito", "hora": "19h"},
-        {"id": 12, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 13, "igreja": "Santa Teresinha", "hora": "19h"},
-        {"id": 14, "igreja": "Vila Vicentina", "hora": "19h30"},
-        {"id": 15, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
-        {"id": 16, "igreja": "IPN - Sagrado Coração", "hora": "19h30"},
-        {"id": 17, "igreja": "Nossa Senhora da Agonia", "hora": "20h"}
+        {"id": 10, "igreja": "Comunidade Sol de Deus", "hora": "16h"},
+        {"id": 11, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
+        {"id": 12, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 13, "igreja": "São José Operário", "hora": "19h"},
+        {"id": 14, "igreja": "Santa Teresinha", "hora": "19h"},
+        {"id": 15, "igreja": "Vila Vicentina", "hora": "19h30"},
+        {"id": 16, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
+        {"id": 17, "igreja": "IPN - Sagrado Coração", "hora": "19h30"},
+        {"id": 18, "igreja": "Nossa Senhora da Agonia", "hora": "20h"}
       ]
     }
 ]
