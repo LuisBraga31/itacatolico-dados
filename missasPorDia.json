@@ -44,9 +44,10 @@
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "São Benedito", "hora": "15h"},
         {"id": 3, "igreja": "Nossa Senhora da Agonia", "hora": "16h"},
-        {"id": 4, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
-        {"id": 6, "igreja": "Nossa Senhora da Piedade", "hora": "19h30"}
+        {"id": 4, "igreja": "Convento", "hora": "16h30"},
+        {"id": 5, "igreja": "São José Operário", "hora": "19h"},
+        {"id": 6, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
+        {"id": 7, "igreja": "Nossa Senhora da Piedade", "hora": "19h30"}
       ]
     },
     {

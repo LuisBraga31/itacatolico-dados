@@ -179,7 +179,8 @@
       "linkMaps": "https://maps.app.goo.gl/9begoJWNLYeuYPvn8",
       "horarios": [
         {"id": 1, "dia": "Terça", "hora": "16h30"},
-        {"id": 2, "dia": "Domingo", "hora": "10h30"}
+        {"id": 2, "dia": "Quinta", "hora": "16h30"},
+        {"id": 3, "dia": "Domingo", "hora": "10h30"}
       ]
   },
   {
