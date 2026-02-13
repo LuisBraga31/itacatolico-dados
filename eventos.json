@@ -1,6 +1,24 @@
 [
-  {
+    {
     "id": 1,
+    "image": "",
+    "data": "01 de Janeiro",
+    "dataInfo": "2026-01-01",
+    "semana": "Quinta-feira",
+    "evento": "Santa Maria, Mãe de Deus",
+    "descricao": "Celebra Maria como Mãe de Jesus e modelo de fé para toda a Igreja."
+  },
+  {
+    "id": 2,
+    "image": "",
+    "data": "04 de Janeiro",
+    "dataInfo": "2026-01-04",
+    "semana": "Domingo",
+    "evento": "Epifania do Senhor",
+    "descricao": "Recorda a visita dos Reis Magos, manifestando Jesus como luz para todas as nações."
+  },
+  {
+    "id": 3,
     "image": "",
     "data": "18 de fevereiro",
     "dataInfo": "2026-02-18",
@@ -9,7 +27,7 @@
     "descricao": "Início da Quaresma, tempo de conversão e preparação para a Páscoa."
   },
   {
-    "id": 2,
+    "id": 4,
     "image": "",
     "data": "19 de março",
     "dataInfo": "2026-03-19",
@@ -18,7 +36,7 @@
     "descricao": "Celebra São José, esposo de Maria e protetor da Sagrada Família."
   },
   {
-    "id": 3,
+    "id": 5,
     "image": "",
     "data": "25 de março",
     "dataInfo": "2026-03-25",
@@ -27,7 +45,7 @@
     "descricao": "Recorda o anúncio do anjo Gabriel a Maria sobre o nascimento de Jesus."
   },
   {
-    "id": 4,
+    "id": 6,
     "image": "",
     "data": "29 de março",
     "dataInfo": "2026-03-29",
@@ -36,7 +54,7 @@
     "descricao": "Celebra a entrada triunfal de Jesus em Jerusalém e inicia a Semana Santa."
   },
   {
-    "id": 5,
+    "id": 7,
     "image": "",
     "data": "5 de abril",
     "dataInfo": "2026-04-05",
@@ -45,7 +63,7 @@
     "descricao": "Festa da Ressurreição de Jesus, centro da fé cristã."
   },
   {
-    "id": 6,
+    "id": 8,
     "image": "",
     "data": "17 de maio",
     "dataInfo": "2026-05-17",
@@ -54,7 +72,7 @@
     "descricao": "Jesus sobe aos céus 40 dias após a Ressurreição."
   },
   {
-    "id": 7,
+    "id": 9,
     "image": "",
     "data": "24 de maio",
     "dataInfo": "2026-05-24",
@@ -63,7 +81,7 @@
     "descricao": "Descida do Espírito Santo sobre os apóstolos em Jerusalém."
   },
   {
-    "id": 8,
+    "id": 10,
     "image": "",
     "data": "4 de junho",
     "dataInfo": "2026-04-06",
@@ -72,7 +90,7 @@
     "descricao": "Celebra o mistério da Eucaristia, o Corpo e Sangue de Cristo."
   },
   {
-    "id": 9,
+    "id": 11,
     "image": "",
     "data": "16 de agosto",
     "dataInfo": "2026-08-16",
@@ -81,7 +99,7 @@
     "descricao": "Maria é elevada ao céu em corpo e alma por graça divina."
   },
   {
-    "id": 10,
+    "id": 12,
     "image": "",
     "data": "1 de novembro",
     "dataInfo": "2026-11-01",
@@ -90,7 +108,7 @@
     "descricao": "Homenagem a todos os santos conhecidos e anônimos da Igreja."
   },
   {
-    "id": 11,
+    "id": 13,
     "image": "",
     "data": "8 de dezembro",
     "dataInfo": "2026-12-08",
@@ -99,7 +117,7 @@
     "descricao": "Celebra Maria concebida sem pecado original desde o início."
   },
   {
-    "id": 12,
+    "id": 14,
     "image": "",
     "data": "25 de dezembro",
     "dataInfo": "2026-12-25",
