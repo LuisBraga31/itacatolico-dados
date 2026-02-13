@@ -4,6 +4,7 @@
         "image": "",
         "data": "18 de fevereiro de 2026",
         "dataInfo": "02/18/2026",
+        "semana": "Quarta-feira",
         "evento": "Quarta-feira de Cinzas"
     },
     {
@@ -11,6 +12,7 @@
         "image": "",
         "data": "19 de março de 2026",
         "dataInfo": "03/19/2026",
+        "semana": "Quinta-feira",
         "evento": "São José Esposo"
     },
     {
@@ -18,6 +20,7 @@
         "image": "",
         "data": "25 de março de 2026",
         "dataInfo": "03/25/2026",
+        "semana": "Quarta-feira",
         "evento": "Anunciação do Senhor"
     },
     {
@@ -25,6 +28,7 @@
         "image": "",
         "data": "29 de março de 2026",
         "dataInfo": "03/29/2026",
+        "semana": "Domingo",
         "evento": "Domingo de Ramos"
     },
     {
@@ -32,6 +36,7 @@
         "image": "",
         "data": "5 de abril de 2026",
         "dataInfo": "04/5/2026",
+        "semana": "Domingo",
         "evento": "Páscoa"
     },
     {
@@ -39,6 +44,7 @@
         "image": "",
         "data": "17 de maio de 2026",
         "dataInfo": "05/17/2026",
+        "semana": "Domingo",
         "evento": "Ascensão do Senhor"
     },
     {
@@ -46,6 +52,7 @@
         "image": "",
         "data": "24 de maio de 2026",
         "dataInfo": "05/24/2026",
+        "semana": "Domingo",
         "evento": "Pentecostes"
     },
     {
@@ -53,6 +60,7 @@
         "image": "",
         "data": "4 de junho de 2026",
         "dataInfo": "06/4/2026",
+        "semana": "Quinta-feira",
         "evento": "Corpus Christi"
     },
     {
@@ -60,6 +68,7 @@
         "image": "",
         "data": "16 de agosto de 2026",
         "dataInfo": "08/16/2026",
+        "semana": "Domingo",
         "evento": "Assunção de Maria"
     },
     {
@@ -67,6 +76,7 @@
         "image": "",
         "data": "1 de novembro de 2026",
         "dataInfo": "11/1/2026",
+        "semana": "Domingo",
         "evento": "Todos os Santos"
     },
     {
@@ -74,6 +84,7 @@
         "image": "",
         "data": "8 de dezembro de 2026",
         "dataInfo": "12/8/2026",
+        "semana": "Terça-feira",
         "evento": "Imaculada Conceição"
     },
     {
@@ -81,6 +92,7 @@
         "image": "",
         "data": "25 de dezembro de 2026",
         "dataInfo": "12/25/2026",
+        "semana": "Sexta-feira",
         "evento": "Natal do Senhor"
     }
 ]
