@@ -252,5 +252,25 @@
       "horarios": [
         {"id": 1, "dia": "Domingo", "hora": "19h"}
       ]
+  },
+  {
+      "id": 22,
+      "igreja": "Nossa Senhora do Rosário",
+      "slug": "nsrosario",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/nsrosario.png",
+      "linkMaps": "https://maps.app.goo.gl/Gqo8DVJTd8apEe9g7",
+      "horarios": [
+        {"id": 1, "dia": "Sábado", "hora": "19h"}
+      ]
+  },
+  {
+      "id": 23,
+      "igreja": "Santa Isabel",
+      "slug": "santaisabel",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/santaisabel.png",
+      "linkMaps": "https://maps.app.goo.gl/BRSUHMigwSfC294k6",
+      "horarios": [
+        {"id": 1, "dia": "Domingo", "hora": "8h"}
+      ]
   }
 ]

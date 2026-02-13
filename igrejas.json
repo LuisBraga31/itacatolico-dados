@@ -286,7 +286,7 @@
       "imageMaps": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imageMaps/saosebastiao.png",
       "linkMaps": "https://maps.app.goo.gl/cmk5v2donJiob3Xt5"
     },
-        {
+    {
       "id": 21,
       "tipo": "igreja",
       "igreja": "Santa Rita de Cássia",
@@ -299,5 +299,33 @@
       "endereco": "Rua Sebastião Pereira Cabral, 105 - Santa Rita de Cassia",
       "imageMaps": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imageMaps/santarita.png",
       "linkMaps": "https://maps.app.goo.gl/F6T9pxacXnpgVDw66"
+    },
+    {
+      "id": 22,
+      "tipo": "igreja",
+      "igreja": "Nossa Senhora do Rosário",
+      "paroquia": "Paróquia São José Operário",
+      "slug": "nsrosario",
+      "contato": "",
+      "contato2": "",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/nsrosario.png",
+      "instagram": "comunidade_nsr",
+      "endereco": "Rua Padre Petrus Dingenouts, 320 - Novo Horizonte",
+      "imageMaps": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imageMaps/nsrosario.png",
+      "linkMaps": "https://maps.app.goo.gl/Gqo8DVJTd8apEe9g7"
+    },
+    {
+      "id": 23,
+      "tipo": "igreja",
+      "igreja": "Santa Isabel",
+      "paroquia": "Paróquia São José Operário",
+      "slug": "santaisabel",
+      "contato": "",
+      "contato2": "",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/santaisabel.png",
+      "instagram": "comunidade.santa.isabel",
+      "endereco": "Rua Dona Zezé - Vila Isabel",
+      "imageMaps": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imageMaps/santaisabel.png",
+      "linkMaps": "https://maps.app.goo.gl/BRSUHMigwSfC294k6"
     }
 ]

@@ -29,12 +29,13 @@
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "Santa Luzia", "hora": "7h"},
-        {"id": 3, "igreja": "Nossa Senhora da Agonia", "hora": "16h"},
-        {"id": 4, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
-        {"id": 5, "igreja": "São Benedito", "hora": "19h"},
-        {"id": 6, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 7, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
-        {"id": 8, "igreja": "Perpétuo Socorro", "hora": "19h30"}
+        {"id": 3, "igreja": "Lar da Providência", "hora": "15h"},
+        {"id": 4, "igreja": "Nossa Senhora da Agonia", "hora": "16h"},
+        {"id": 5, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
+        {"id": 6, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 7, "igreja": "São José Operário", "hora": "19h"},
+        {"id": 8, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
+        {"id": 9, "igreja": "Perpétuo Socorro", "hora": "19h30"}
       ]
     },
     {
@@ -81,7 +82,8 @@
         {"id": 10, "igreja": "Santa Margarida Maria", "hora": "19h"},
         {"id": 11, "igreja": "Nossa Senhora de Fátima", "hora": "19h"},
         {"id": 12, "igreja": "Santa Luzia", "hora": "19h"},
-        {"id": 13, "igreja": "Nossa Senhora da Agonia", "hora": "19h30"}
+        {"id": 13, "igreja": "Nossa Senhora do Rosário", "hora": "19h"},
+        {"id": 14, "igreja": "Nossa Senhora da Agonia", "hora": "19h30"}
       ]
     },
     {
@@ -93,6 +95,7 @@
         {"id": 3, "igreja": "São José Operário", "hora": "7h"},
         {"id": 4, "igreja": "Perpétuo Socorro", "hora": "7h"},
         {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "7h30"},
+        {"id": 30, "igreja": "Santa Isabel", "hora": "8h"},
         {"id": 6, "igreja": "Nossa Senhora das Graças", "hora": "8h30"},
         {"id": 7, "igreja": "IPN - Sagrado Coração", "hora": "8h30"},
         {"id": 8, "igreja": "Santa Rosa", "hora": "8h30"},
