@@ -1,98 +1,110 @@
 [
-    {
-        "id": 1,
-        "image": "",
-        "data": "18 de fevereiro de 2026",
-        "dataInfo": "02/18/2026",
-        "semana": "Quarta-feira",
-        "evento": "Quarta-feira de Cinzas"
-    },
-    {
-        "id": 2,
-        "image": "",
-        "data": "19 de março de 2026",
-        "dataInfo": "03/19/2026",
-        "semana": "Quinta-feira",
-        "evento": "São José Esposo"
-    },
-    {
-        "id": 3,
-        "image": "",
-        "data": "25 de março de 2026",
-        "dataInfo": "03/25/2026",
-        "semana": "Quarta-feira",
-        "evento": "Anunciação do Senhor"
-    },
-    {
-        "id": 4,
-        "image": "",
-        "data": "29 de março de 2026",
-        "dataInfo": "03/29/2026",
-        "semana": "Domingo",
-        "evento": "Domingo de Ramos"
-    },
-    {
-        "id": 5,
-        "image": "",
-        "data": "5 de abril de 2026",
-        "dataInfo": "04/5/2026",
-        "semana": "Domingo",
-        "evento": "Páscoa"
-    },
-    {
-        "id": 6,
-        "image": "",
-        "data": "17 de maio de 2026",
-        "dataInfo": "05/17/2026",
-        "semana": "Domingo",
-        "evento": "Ascensão do Senhor"
-    },
-    {
-        "id": 7,
-        "image": "",
-        "data": "24 de maio de 2026",
-        "dataInfo": "05/24/2026",
-        "semana": "Domingo",
-        "evento": "Pentecostes"
-    },
-    {
-        "id": 8,
-        "image": "",
-        "data": "4 de junho de 2026",
-        "dataInfo": "06/4/2026",
-        "semana": "Quinta-feira",
-        "evento": "Corpus Christi"
-    },
-    {
-        "id": 9,
-        "image": "",
-        "data": "16 de agosto de 2026",
-        "dataInfo": "08/16/2026",
-        "semana": "Domingo",
-        "evento": "Assunção de Maria"
-    },
-    {
-        "id": 10,
-        "image": "",
-        "data": "1 de novembro de 2026",
-        "dataInfo": "11/1/2026",
-        "semana": "Domingo",
-        "evento": "Todos os Santos"
-    },
-    {
-        "id": 11,
-        "image": "",
-        "data": "8 de dezembro de 2026",
-        "dataInfo": "12/8/2026",
-        "semana": "Terça-feira",
-        "evento": "Imaculada Conceição"
-    },
-    {
-        "id": 12,
-        "image": "",
-        "data": "25 de dezembro de 2026",
-        "dataInfo": "12/25/2026",
-        "semana": "Sexta-feira",
-        "evento": "Natal do Senhor"
-    }
+  {
+    "id": 1,
+    "image": "",
+    "data": "18 de fevereiro",
+    "dataInfo": "02/18/2026",
+    "semana": "Quarta-feira",
+    "evento": "Quarta-feira de Cinzas",
+    "descricao": "Início da Quaresma, tempo de conversão e preparação para a Páscoa."
+  },
+  {
+    "id": 2,
+    "image": "",
+    "data": "19 de março",
+    "dataInfo": "03/19/2026",
+    "semana": "Quinta-feira",
+    "evento": "São José Esposo",
+    "descricao": "Celebra São José, esposo de Maria e protetor da Sagrada Família."
+  },
+  {
+    "id": 3,
+    "image": "",
+    "data": "25 de março",
+    "dataInfo": "03/25/2026",
+    "semana": "Quarta-feira",
+    "evento": "Anunciação do Senhor",
+    "descricao": "Recorda o anúncio do anjo Gabriel a Maria sobre o nascimento de Jesus."
+  },
+  {
+    "id": 4,
+    "image": "",
+    "data": "29 de março",
+    "dataInfo": "03/29/2026",
+    "semana": "Domingo",
+    "evento": "Domingo de Ramos",
+    "descricao": "Celebra a entrada triunfal de Jesus em Jerusalém e inicia a Semana Santa."
+  },
+  {
+    "id": 5,
+    "image": "",
+    "data": "5 de abril",
+    "dataInfo": "04/5/2026",
+    "semana": "Domingo",
+    "evento": "Páscoa",
+    "descricao": "Festa da Ressurreição de Jesus, centro da fé cristã."
+  },
+  {
+    "id": 6,
+    "image": "",
+    "data": "17 de maio",
+    "dataInfo": "05/17/2026",
+    "semana": "Domingo",
+    "evento": "Ascensão do Senhor",
+    "descricao": "Jesus sobe aos céus 40 dias após a Ressurreição."
+  },
+  {
+    "id": 7,
+    "image": "",
+    "data": "24 de maio",
+    "dataInfo": "05/24/2026",
+    "semana": "Domingo",
+    "evento": "Pentecostes",
+    "descricao": "Descida do Espírito Santo sobre os apóstolos em Jerusalém."
+  },
+  {
+    "id": 8,
+    "image": "",
+    "data": "4 de junho",
+    "dataInfo": "06/4/2026",
+    "semana": "Quinta-feira",
+    "evento": "Corpus Christi",
+    "descricao": "Celebra o mistério da Eucaristia, o Corpo e Sangue de Cristo."
+  },
+  {
+    "id": 9,
+    "image": "",
+    "data": "16 de agosto",
+    "dataInfo": "08/16/2026",
+    "semana": "Domingo",
+    "evento": "Assunção de Maria",
+    "descricao": "Maria é elevada ao céu em corpo e alma por graça divina."
+  },
+  {
+    "id": 10,
+    "image": "",
+    "data": "1 de novembro",
+    "dataInfo": "11/1/2026",
+    "semana": "Domingo",
+    "evento": "Todos os Santos",
+    "descricao": "Homenagem a todos os santos conhecidos e anônimos da Igreja."
+  },
+  {
+    "id": 11,
+    "image": "",
+    "data": "8 de dezembro",
+    "dataInfo": "12/8/2026",
+    "semana": "Terça-feira",
+    "evento": "Imaculada Conceição",
+    "descricao": "Celebra Maria concebida sem pecado original desde o início."
+  },
+  {
+    "id": 12,
+    "image": "",
+    "data": "25 de dezembro",
+    "dataInfo": "12/25/2026",
+    "semana": "Sexta-feira",
+    "evento": "Natal do Senhor",
+    "descricao": "Comemora o nascimento de Jesus Cristo, luz e salvação para o mundo."
+  }
 ]
