@@ -16,17 +16,17 @@
         {"id": 11, "igreja": "Lar da Providência", "hora": "15h"},
         {"id": 12, "igreja": "Santa Rita de Cássia", "hora": "15h"},
         {"id": 13, "igreja": "Convento", "hora": "16h30"},
-        {"id": 24, "igreja": "Vila Vicentina", "hora": "17h"},
-        {"id": 14, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
-        {"id": 15, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 16, "igreja": "Santa Rita - Açude", "hora": "19h"},
-        {"id": 17, "igreja": "São Benedito", "hora": "19h"},
-        {"id": 18, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
-        {"id": 19, "igreja": "Nossa Senhora da Agonia", "hora": "19h30"},
-        {"id": 20, "igreja": "IPN - Sagrado Coração", "hora": "19h30"},
-        {"id": 21, "igreja": "Nossa Senhora do Rosário", "hora": "19h30"},
-        {"id": 22, "igreja": "São Francisco - Santos Dumont", "hora": "19h30"},
-        {"id": 23, "igreja": "Santa Rosa", "hora": "19h30"}
+        {"id": 14, "igreja": "Vila Vicentina", "hora": "17h"},
+        {"id": 15, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
+        {"id": 16, "igreja": "São José Operário", "hora": "19h"},
+        {"id": 17, "igreja": "Santa Rita - Açude", "hora": "19h"},
+        {"id": 18, "igreja": "São Benedito", "hora": "19h"},
+        {"id": 19, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
+        {"id": 20, "igreja": "Nossa Senhora da Agonia", "hora": "19h30"},
+        {"id": 21, "igreja": "IPN - Sagrado Coração", "hora": "19h30"},
+        {"id": 22, "igreja": "Nossa Senhora do Rosário", "hora": "19h30"},
+        {"id": 23, "igreja": "São Francisco -Santos Dumont", "hora": "19h30"},
+        {"id": 24, "igreja": "Santa Rosa", "hora": "19h30"}
       ]
     }
 ]
