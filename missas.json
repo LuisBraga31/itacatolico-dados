@@ -42,8 +42,8 @@
       "horarios": [
         {"id": 1, "dia": "Segunda", "hora": "19h30"},
         {"id": 2, "dia": "Terça", "hora": "19h30"},
-        {"id": 3, "dia": "Quarta", "hora": "16h"},
-        {"id": 4, "dia": "Quinta", "hora": "16h"},
+        {"id": 3, "dia": "Quarta", "hora": "19h30"},
+        {"id": 4, "dia": "Quinta", "hora": "19h30"},
         {"id": 5, "dia": "Sexta", "hora": "19h30"},
         {"id": 6, "dia": "Sábado", "hora": "7h e 19h30"},
         {"id": 7, "dia": "Domingo", "hora": "7h, 12h e 20h"}
