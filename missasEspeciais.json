@@ -16,6 +16,7 @@
         {"id": 11, "igreja": "Lar da Providência", "hora": "15h"},
         {"id": 12, "igreja": "Santa Rita de Cássia", "hora": "15h"},
         {"id": 13, "igreja": "Convento", "hora": "16h30"},
+        {"id": 24, "igreja": "Vila Vicentina", "hora": "17h"},
         {"id": 14, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
         {"id": 15, "igreja": "São José Operário", "hora": "19h"},
         {"id": 16, "igreja": "Santa Rita - Açude", "hora": "19h"},
