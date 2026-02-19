@@ -27,6 +27,7 @@
       "id": 3,
       "dia": "Quarta",
       "horarios": [
+        {"id": 12, "igreja": "IPN - Sagrado Coração", "hora": "5h", "quaresma": true},
         {"id": 11, "igreja": "Nossa Senhora das Graças", "hora": "5h", "quaresma": true},
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "Santa Luzia", "hora": "7h"},
@@ -58,7 +59,9 @@
       "dia": "Sexta",
       "horarios": [
         {"id": 10, "igreja": "Santo Antônio", "hora": "5h", "quaresma": true},
-        {"id": 11, "igreja": "São José Operário", "hora": "6h", "quaresma": true},
+        {"id": 11, "igreja": "Nossa Senhora da Agonia", "hora": "5h", "quaresma": true},
+        {"id": 12, "igreja": "São José Operário", "hora": "6h", "quaresma": true},
+        {"id": 13, "igreja": "Nossa Senhora da Piedade", "hora": "6h", "quaresma": true},
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "6h30", "quaresma": true},
         {"id": 2, "igreja": "Vila Vicentina", "hora": "7h"},
         {"id": 3, "igreja": "Comunidade Sol de Deus", "hora": "14h"},
