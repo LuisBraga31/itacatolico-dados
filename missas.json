@@ -10,7 +10,7 @@
         {"id": 2, "dia": "Terça", "hora": "7h e 19h30"},
         {"id": 3, "dia": "Quarta", "hora": "7h e 19h30"},
         {"id": 4, "dia": "Quinta", "hora": "7h e 19h30"},
-        {"id": 5, "dia": "Sexta", "hora": "7h e 19h30"},
+        {"id": 5, "dia": "Sexta", "hora": "6h30 e 19h30"},
         {"id": 6, "dia": "Sábado", "hora": "19h"},
         {"id": 7, "dia": "Domingo", "hora": "7h30, 10h, 16h e 19h"},
         {"id": 8, "dia": "1° Sexta", "hora": "7h, 10h30, 16h e 19h30"},
@@ -28,7 +28,7 @@
         {"id": 2, "dia": "Terça", "hora": "19h"},
         {"id": 3, "dia": "Quarta", "hora": "19h"},
         {"id": 4, "dia": "Quinta", "hora": "19h"},
-        {"id": 5, "dia": "Sexta", "hora": "16h"},
+        {"id": 5, "dia": "Sexta", "hora": "6h e 16h"},
         {"id": 6, "dia": "Sábado", "hora": "16h e 19h"},
         {"id": 7, "dia": "Domingo", "hora": "7h, 10h e 18h"}
       ]
@@ -44,7 +44,7 @@
         {"id": 2, "dia": "Terça", "hora": "19h30"},
         {"id": 3, "dia": "Quarta", "hora": "19h30"},
         {"id": 4, "dia": "Quinta", "hora": "19h30"},
-        {"id": 5, "dia": "Sexta", "hora": "19h30"},
+        {"id": 5, "dia": "Sexta", "hora": "5h e 19h30"},
         {"id": 6, "dia": "Sábado", "hora": "7h e 19h30"},
         {"id": 7, "dia": "Domingo", "hora": "7h, 12h e 20h"}
       ]
@@ -56,7 +56,7 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/gracas.jpg",
       "linkMaps": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
       "horarios": [
-        {"id": 1, "dia": "Quarta", "hora": "18h"},
+        {"id": 1, "dia": "Quarta", "hora": "5h e 18h"},
         {"id": 2, "dia": "Sábado", "hora": "18h"},
         {"id": 3, "dia": "Domingo", "hora": "8h30 e 18h"},
         {"id": 4, "dia": "1° Sexta", "hora": "18h"},
@@ -88,6 +88,7 @@
       "horarios": [
         {"id": 1, "dia": "Segunda", "hora": "19h30"},
         {"id": 2, "dia": "Terça", "hora": "19h30"},
+        {"id": 6, "dia": "Quarta", "hora": "5h"},
         {"id": 3, "dia": "Sexta", "hora": "19h30"},
         {"id": 4, "dia": "Sábado", "hora": "19h"},
         {"id": 5, "dia": "Domingo", "hora": "8h30"}
@@ -112,6 +113,7 @@
       "linkMaps": "https://maps.app.goo.gl/hsTaQD9i4aBVFugn6",
       "horarios": [
         {"id": 1, "dia": "Quinta", "hora": "19h30"},
+        {"id": 3, "dia": "Sexta", "hora": "6h"},
         {"id": 2, "dia": "Domingo", "hora": "9h"}
       ]
   },
