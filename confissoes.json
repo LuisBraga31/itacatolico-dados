@@ -1,4 +1,16 @@
 [
+      {
+      "id": 1,
+      "igreja": "Nossa Senhora da Agonia",
+      "slug": "agonia",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/agonia.jpg",
+      "local": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "9h às 12h"},
+        {"id": 2, "dia": "Quinta", "hora": "9h às 12h"},
+        {"id": 3, "dia": "Sexta", "hora": "9h às 12h"}
+      ]
+    },
     {
       "id": 2,
       "igreja": "Nossa Senhora das Graças",
@@ -6,8 +18,9 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/gracas.jpg",
       "local": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
       "horarios": [
-        {"id": 1, "dia": "Quarta", "hora": "14h às 16h30"},
-        {"id": 2, "dia": "Sexta", "hora": "9h às 11h30"}
+        {"id": 1, "dia": "Quarta", "hora": "9h às 11h30"},
+        {"id": 2, "dia": "Quinta", "hora": "9h às 11h30"},
+        {"id": 3, "dia": "Sexta", "hora": "9h às 11h30"}
       ]
     },
     {

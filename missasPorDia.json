@@ -58,7 +58,6 @@
       "id": 5,
       "dia": "Sexta",
       "horarios": [
-        {"id": 10, "igreja": "Santo Antônio", "hora": "5h", "quaresma": true},
         {"id": 11, "igreja": "Nossa Senhora da Agonia", "hora": "5h", "quaresma": true},
         {"id": 12, "igreja": "São José Operário", "hora": "6h", "quaresma": true},
         {"id": 13, "igreja": "Nossa Senhora da Piedade", "hora": "6h", "quaresma": true},
