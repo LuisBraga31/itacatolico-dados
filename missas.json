@@ -56,10 +56,10 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/gracas.jpg",
       "linkMaps": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
       "horarios": [
-        {"id": 1, "dia": "Quarta", "hora": "5h e 18h"},
+        {"id": 1, "dia": "Quarta", "hora": "5h"},
+        {"id": 4, "dia": "Sexta", "hora": "18h"},
         {"id": 2, "dia": "Sábado", "hora": "18h"},
         {"id": 3, "dia": "Domingo", "hora": "8h30 e 18h"},
-        {"id": 4, "dia": "1° Sexta", "hora": "18h"},
         {"id": 5, "dia": "Todo dia 27", "hora": "18h"}
       ]
   },
@@ -72,9 +72,9 @@
       "horarios": [
         {"id": 1, "dia": "Segunda", "hora": "19h"},
         {"id": 2, "dia": "Terça", "hora": "15h"},
-        {"id": 3, "dia": "Quarta", "hora": "19h"},
+        {"id": 3, "dia": "Quarta", "hora": "5h30 e 19h"},
         {"id": 4, "dia": "Quinta", "hora": "15h"},
-        {"id": 5, "dia": "Sexta", "hora": "19h"},
+        {"id": 5, "dia": "Sexta", "hora": "5h30 e 19h"},
         {"id": 6, "dia": "Sábado", "hora": "15h"},
         {"id": 7, "dia": "Domingo", "hora": "7h, 10h, 17h e 19h"}
       ]
@@ -134,8 +134,11 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/santoantonio.jpg",
       "linkMaps": "https://maps.app.goo.gl/32zS2FjQfbkticE97",
       "horarios": [
-        {"id": 1, "dia": "Sexta", "hora": "19h30"},
-        {"id": 2, "dia": "Domingo", "hora": "10h e 19h"}
+        {"id": 1, "dia": "Terça", "hora": "15h"},
+        {"id": 2, "dia": "Quinta", "hora": "15h"},
+        {"id": 3, "dia": "Sexta", "hora": "19h30"},
+        {"id": 4, "dia": "Sábado", "hora": "15h"},
+        {"id": 5, "dia": "Domingo", "hora": "10h e 19h"}
       ]
   },
   {
