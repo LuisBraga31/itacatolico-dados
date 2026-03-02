@@ -30,10 +30,10 @@
       "horarios": [
         {"id": 12, "igreja": "IPN - Sagrado Coração", "hora": "5h", "quaresma": true},
         {"id": 11, "igreja": "Nossa Senhora das Graças", "hora": "5h", "quaresma": true},
-        {"id": 13, "igreja": "São Benedito", "hora": "5h30"},
+        {"id": 13, "igreja": "São Benedito", "hora": "5h30", "quaresma": true},
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "Santa Luzia", "hora": "7h"},
-        {"id": 10, "igreja": "São Francisco - Morro Chic", "hora": "12h15", "quaresma": true},
+        {"id": 10, "igreja": "São Francisco - Morro Chic", "hora": "12h", "quaresma": true},
         {"id": 3, "igreja": "Lar da Providência", "hora": "15h"},
         {"id": 5, "igreja": "São Benedito", "hora": "19h"},
         {"id": 6, "igreja": "São José Operário", "hora": "19h"},
@@ -61,7 +61,7 @@
       "dia": "Sexta",
       "horarios": [
         {"id": 11, "igreja": "Nossa Senhora da Agonia", "hora": "5h", "quaresma": true},
-        {"id": 15, "igreja": "São Benedito", "hora": "5h30"},
+        {"id": 15, "igreja": "São Benedito", "hora": "5h30", "quaresma": true},
         {"id": 12, "igreja": "São José Operário", "hora": "6h", "quaresma": true},
         {"id": 13, "igreja": "Nossa Senhora da Piedade", "hora": "6h", "quaresma": true},
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "6h30", "quaresma": true},
