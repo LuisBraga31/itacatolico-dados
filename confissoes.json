@@ -6,9 +6,8 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/agonia.jpg",
       "local": "https://maps.app.goo.gl/RrxJb9d2bbwUFSYi7",
       "horarios": [
-        {"id": 1, "dia": "Quarta", "hora": "9h às 12h"},
-        {"id": 2, "dia": "Quinta", "hora": "9h às 12h"},
-        {"id": 3, "dia": "Sexta", "hora": "9h às 12h"}
+        {"id": 1, "dia": "Quinta", "hora": "9h às 12h"},
+        {"id": 2, "dia": "Sexta", "hora": "9h às 12h"}
       ]
     },
     {
