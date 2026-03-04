@@ -15,7 +15,6 @@
       "dia": "Terça",
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
-        {"id": 8, "igreja": "Santo Antônio", "hora": "15h"},
         {"id": 2, "igreja": "São Benedito", "hora": "15h"},
         {"id": 3, "igreja": "Convento", "hora": "16h30"},
         {"id": 4, "igreja": "São José Operário", "hora": "19h"},
@@ -48,7 +47,6 @@
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Soledade", "hora": "7h"},
         {"id": 2, "igreja": "São Benedito", "hora": "15h"},
-        {"id": 8, "igreja": "Santo Antônio", "hora": "15h"},
         {"id": 3, "igreja": "Convento", "hora": "16h30"},
         {"id": 4, "igreja": "São José Operário", "hora": "19h"},
         {"id": 5, "igreja": "Nossa Senhora da Agonia", "hora": "19h30"},
@@ -82,7 +80,6 @@
       "horarios": [
         {"id": 1, "igreja": "Nossa Senhora da Agonia", "hora": "7h"},
         {"id": 2, "igreja": "São Benedito", "hora": "15h"},
-        {"id": 15, "igreja": "Santo Antônio", "hora": "15h"},
         {"id": 3, "igreja": "São José Operário", "hora": "16h"},
         {"id": 4, "igreja": "Nossa Senhora da Luz", "hora": "17h"},
         {"id": 5, "igreja": "Nossa Senhora das Graças", "hora": "18h"},
