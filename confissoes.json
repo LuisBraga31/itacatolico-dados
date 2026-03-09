@@ -1,7 +1,7 @@
 [
     {
       "id": 10,
-      "igreja": "Mutirão - Nossa Senhora das Graças",
+      "igreja": "Nossa Senhora das Graças (Mutirão)",
       "slug": "gracas",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/gracas.jpg",
       "local": "https://maps.app.goo.gl/c8nGkmJ8DCnds1Su9",
@@ -11,7 +11,7 @@
     },
     {
       "id": 11,
-      "igreja": "Mutirão - São Benedito",
+      "igreja": "São Benedito (Mutirão)",
       "slug": "saobenedito",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saobenedito.png",
       "local": "https://maps.app.goo.gl/We3ThgXa5abaqwcx9",
@@ -21,7 +21,7 @@
     },
     {
       "id": 12,
-      "igreja": "Mutirão - São José Operário",
+      "igreja": "São José Operário (Mutirão)",
       "slug": "saojose",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saojose.jpg",
       "local": "https://maps.app.goo.gl/do1U7xWmR7vckjG56",
@@ -31,7 +31,7 @@
     },
     {
       "id": 13,
-      "igreja": "Mutirão - Santo Antônio",
+      "igreja": "Santo Antônio (Mutirão)",
       "slug": "santoantonio",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/santoantonio.jpg",
       "local": "https://maps.app.goo.gl/32zS2FjQfbkticE97",
@@ -41,7 +41,7 @@
     },
     {
       "id": 14,
-      "igreja": "Mutirão - Sagrada Família",
+      "igreja": "Sagrada Família (Mutirão)",
       "slug": "piedade",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/piedade.jpg",
       "local": "https://maps.app.goo.gl/hsTaQD9i4aBVFugn6",
@@ -51,7 +51,7 @@
     },
     {
       "id": 15,
-      "igreja": "Mutirão - Nossa Senhora da Soledade",
+      "igreja": "Nossa Senhora da Soledade (Mutirão)",
       "slug": "soledade",
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/soledade.jpg",
       "local": "https://maps.app.goo.gl/fJAoQmfonU6gPBoA8",
