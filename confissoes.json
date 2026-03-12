@@ -101,9 +101,9 @@
       "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/saojose.jpg",
       "local": "https://maps.app.goo.gl/do1U7xWmR7vckjG56",
       "horarios": [
-        {"id": 1, "dia": "Terça", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 1, "dia": "Terça", "hora": "9h às 11h"},
         {"id": 2, "dia": "Quarta", "hora": "9h às 11h e 14h às 16h"},
-        {"id": 3, "dia": "Quinta", "hora": "9h às 11h e 14h às 16h"},
+        {"id": 3, "dia": "Quinta", "hora": "14h às 16h"},
         {"id": 4, "dia": "Sexta", "hora": "9h às 11h e 14h às 16h"}
       ]
     },
