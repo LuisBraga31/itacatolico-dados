@@ -65,7 +65,6 @@
       "id": 6,
       "dia": "03 de Abril - Solene Ação",
       "horarios": [
-        {"id": 1, "igreja": "São José Operário", "hora": "6h"},
         {"id": 2, "igreja": "São José Operário", "hora": "15h"},
         {"id": 3, "igreja": "Nossa Senhora da Soledade", "hora": "15h"},
         {"id": 4, "igreja": "Nossa Senhora das Graças", "hora": "15h"},
