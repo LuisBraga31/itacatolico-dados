@@ -1,36 +1,4 @@
-[
-    {
-      "id": 2,
-      "dia": "30 de Março",
-      "horarios": [
-        {"id": 1, "igreja": "São José Operário", "hora": "6h"},
-        {"id": 2, "igreja": "Comunidade Sol de Deus", "hora": "7h"},
-        {"id": 3, "igreja": "São Benedito", "hora": "9h"},
-        {"id": 4, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 5, "igreja": "Santa Rosa", "hora": "19h"},
-        {"id": 6, "igreja": "Nossa Senhora da Soledade", "hora": "19h30"},
-        {"id": 7, "igreja": "Nossa Senhora do Rosário", "hora": "19h30"},
-        {"id": 8, "igreja": "Convento da Providência", "hora": "19h30"},
-        {"id": 9, "igreja": "Nossa Senhora da Luz", "hora": "19h30"},
-        {"id": 10, "igreja": "Vila Vicentina", "hora": "19h30"}
-      ]
-    },
-    {
-      "id": 3,
-      "dia": "31 de Março",
-      "horarios": [
-        {"id": 1, "igreja": "São José Operário", "hora": "6h"},
-        {"id": 2, "igreja": "Comunidade Sol de Deus", "hora": "7h"},
-        {"id": 3, "igreja": "São Benedito", "hora": "15h"},
-        {"id": 4, "igreja": "São José Operário", "hora": "19h"},
-        {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "19h"},
-        {"id": 6, "igreja": "Nossa Senhora das Graças", "hora": "19h"},
-        {"id": 7, "igreja": "Nossa Senhora da Agonia", "hora": "19h"},
-        {"id": 8, "igreja": "São Benedito (Saindo do Ceam)", "hora": "19h"},
-        {"id": 9, "igreja": "Santa Rosa", "hora": "19h"},
-        {"id": 10, "igreja": "Vila Vicentina", "hora": "19h"}
-      ]
-    },
+[ 
     {
       "id": 4,
       "dia": "01 de Abril",
