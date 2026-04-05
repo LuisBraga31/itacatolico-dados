@@ -1,20 +1,5 @@
 [ 
     {
-      "id": 7,
-      "dia": "04 de Abril - Vigília Pascal",
-      "horarios": [
-        {"id": 1, "igreja": "Nossa Senhora das Graças", "hora": "19h"},
-        {"id": 2, "igreja": "São Benedito", "hora": "19h"},
-        {"id": 3, "igreja": "Santa Rosa", "hora": "19h"},
-        {"id": 4, "igreja": "Nossa Senhora de Fátima", "hora": "19h"},
-        {"id": 5, "igreja": "Nossa Senhora da Soledade", "hora": "19h"},
-        {"id": 6, "igreja": "Vila Vicentina", "hora": "19h"},
-        {"id": 7, "igreja": "Comunidade Sol de Deus", "hora": "20h"},
-        {"id": 8, "igreja": "São José Operário", "hora": "20h"},
-        {"id": 9, "igreja": "Nossa Senhora da Agonia", "hora": "21h"}
-      ] 
-    },
-    {
       "id": 8,
       "dia": "05 de Abril",
       "horarios": [
