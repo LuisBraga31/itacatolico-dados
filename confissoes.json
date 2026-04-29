@@ -59,5 +59,15 @@
         {"id": 4, "dia": "Sexta", "hora": "9h às 11h e 14h30 às 16h"},
         {"id": 5, "dia": "1° Sexta", "hora": "8h30 às 11h e 14h às 16h"}
       ]
+    },
+    {
+      "id": 6,
+      "igreja": "Nossa Senhora da Piedade",
+      "slug": "piedade",
+      "image": "https://raw.githubusercontent.com/LuisBraga31/itacatolico-dados/main/imagens/piedade.jpg",
+      "local": "https://maps.app.goo.gl/hsTaQD9i4aBVFugn6",
+      "horarios": [
+        {"id": 1, "dia": "Quarta", "hora": "9h às 11h30 e 14h às 16h"}
+      ]
     }
 ]
